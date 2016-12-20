@@ -6,9 +6,9 @@
     "commander": "^2.9.0",
     "open": "^0.0.5"
   },
-  "name": "websearch",
+  "name": "node-websearch",
   "version": "1.0.1",
-  "description": "inline web search",
+  "description": "Inline web search",
   "main": "index.js",
   "author": "Rawnly",
   "license": "MIT",
